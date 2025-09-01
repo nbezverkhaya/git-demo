@@ -6,3 +6,4 @@ new
 ---
 
 Feature branch
+Feature branch 2
