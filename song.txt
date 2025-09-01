@@ -7,3 +7,4 @@ new
 
 
 Feature branch 3
+Another line feature
